@@ -4,8 +4,6 @@
 
 OptiCore eliminates the tedious manual process of creating business reports from spreadsheet data. With a single macro execution, it converts departmental performance data (operating costs, efficiency percentages, output units) into professional-grade analysis including trend forecasting, performance benchmarking, and interactive visualizations. The system automatically validates data quality, calculates advanced KPIs, and generates executive-ready summaries that typically require expensive BI tools or hours of manual Excel work.
 
----
-
 ## 🎯 Core Capabilities
 
 - **One-Click Automation**: Run `Main_CreateDashboardSuite()` for complete report generation  
@@ -18,13 +16,9 @@ OptiCore eliminates the tedious manual process of creating business reports from
 - **Smart Highlighting**: Color-coded alerts for critical issues, warnings, and high performers  
 <img width="1553" height="551" alt="Dashboard" src="https://github.com/user-attachments/assets/669845ce-fcb8-436c-b34b-777195a242e1" />
 
----
-
 ## 💼 Business Impact
 
 Reduces report generation time from hours to minutes while improving accuracy and consistency. Identifies cost optimization opportunities, performance gaps, and efficiency trends that drive strategic decision-making. Eliminates manual calculation errors and provides standardized reporting across departments.
-
----
 
 ## 🔧 Technical Features
 
@@ -34,13 +28,9 @@ Reduces report generation time from hours to minutes while improving accuracy an
 - Memory-efficient processing with progress tracking  
 - Cross-compatible with Excel 2016+ versions  
 
----
-
 ### ✅ Perfect For
 
 Business analysts, operations managers, department heads, CFOs, and consultants who need rapid, accurate analysis of operational efficiency data without expensive BI software.
-
----
 
 ### 🚀 Ready to Use
 
